@@ -1,5 +1,5 @@
 /**
- * @author viticlick
+ * @author viticlick (viticlick@gmail.com)
  */
 public class CifradoCesar {
 
